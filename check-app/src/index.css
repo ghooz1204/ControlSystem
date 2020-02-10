@@ -1,0 +1,22 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+html, body { 
+    font-family: "Noto Sans KR", sans-serif !important;
+    font-size: 20px;
+    margin: 0; padding: 0;
+}
+.head-line1 { font-size: 6rem; }
+.head-line2 { font-size: 3.75rem; }
+.head-line3 { font-size: 3rem; }
+.head-line4 { font-size: 2.125rem; }
+.head-line5 { font-size: 1.5rem; }
+.head-line6 { font-size: 1.25rem; }
+
+.sub-title1, .body1 { font-size: 1rem; }
+.sub-title2, .body2, .button { font-size: 0.875rem; }
+
+.caption { font-size: 0.75rem; }
+.overline { font-size: 0.625rem; }
+
+.light { font-weight: lighter; }
+.medium { font-weight: 300; }
+.bold { font-weight: bold; }

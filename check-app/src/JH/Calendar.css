@@ -1,0 +1,32 @@
+.Calender_wrap{
+    padding-left: 30px;
+    width: 900px;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.Calendar_Contents{
+    width: 350px;
+    height: 400px;
+}
+.react-calendar{
+    height: 400px;
+}
+
+.Schedule_Contents{
+    margin-left: 10px;
+    width:540px;
+    height: 400px;
+}
+.View_Working_State{
+    width: 900px;
+    height: 200px;
+}
+.Schedule_submit_btn{
+    width: 120px;
+    height: 44px;
+}
+.schedule_text{
+    color: #0066FF;
+}

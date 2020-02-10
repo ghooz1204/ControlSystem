@@ -1,0 +1,15 @@
+.App-header-on {
+  font-size: 12.5px;  
+  text-align: center;
+  padding: 7em;
+}
+
+.App-header-off {
+  font-size: 10px;
+  text-align: left;
+  padding: 3em;
+}
+  
+.App-logo {
+  width: 20em;
+}

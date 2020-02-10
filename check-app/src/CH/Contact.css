@@ -1,0 +1,23 @@
+.ContactBox {
+    width: 480px;
+    height: 70px;
+    margin-bottom: 25px;
+    padding: 0 20px;
+    background-color: #ECECEC;
+    border: none;
+    ime-mode: disabled;
+}
+
+.ContactBtnArea {
+    width: 520px;
+    margin: auto;
+    text-align: right;
+}
+
+.ContactBtn {
+    width: 250px;
+    height: 70px;
+    border: none;
+    background-color: #707070;
+    color: white;
+}

@@ -1,0 +1,9 @@
+
+.select_Category{
+    list-style: none;
+    padding-bottom: 10px;
+    padding-right: 15px;
+}
+.select_Category:active{
+    color:#0066FF;
+}

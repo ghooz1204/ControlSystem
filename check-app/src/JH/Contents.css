@@ -1,0 +1,34 @@
+/*Wrap에 있는거랑 다름*/
+.Contents_Layout{
+    display: flex;
+    flex-direction: column;
+}
+/*날짜*/
+.date_box{
+    width: 900px;
+    height: 15%;
+    font-size: 60px;
+    border-bottom: 1px solid #707070;
+}
+/*출근 전*/
+.PreWorking_Layout{
+    width: 100%;
+    height: 85%;
+
+}
+/*출근 후*/
+.Working_Layout{
+    width: 100%;
+    height: 85%;
+}
+
+/*출근 버튼 외에 공통으로 사용하는 CSS*/
+.button_design{
+    width: 140px;
+    height: 59px;
+    color: white;
+    font-size: 20px;
+    border: none;
+    background-color: #0066FF;
+
+}

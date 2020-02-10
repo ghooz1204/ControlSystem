@@ -1,0 +1,28 @@
+.total-manage {
+    width: 900px;
+    padding-left: 30px;
+}
+
+.total-manage .react-calendar {
+    width: 900px;
+}
+
+.personal-schedule {
+    background-color: #DDDDDD;
+    margin: 10px 0px;
+}
+
+.personal-user-name {
+    display: inline-block;
+    width: 150px;
+    line-height: 50px;
+    text-align: center;
+}
+.personal-summary {
+    display: inline-block;
+    width: 700px;
+    text-align: right;
+}
+.personal-time {
+    padding: 10px 20px;
+}
